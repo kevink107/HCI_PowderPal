@@ -1,0 +1,35 @@
+{
+    "friends": [
+        {
+            "name": "Harrison James",
+            "sport": "Skier",
+            "level": "Intermediate",
+            "year": "Dartmouth '24",
+            "photo": "HJ"
+        }, {
+            "name": "Josh Baker",
+            "sport": "Skier",
+            "level": "Intermediate",
+            "year": "Dartmouth '26",
+            "photo": "JB"
+        }, {
+            "name": "Jane Smith",
+            "sport": "Skier",
+            "level": "Advanced",
+            "year": "Dartmouth '25",
+            "photo": "JS"
+        }, {
+            "name": "Selma Williams",
+            "sport": "Skier",
+            "level": "Beginner",
+            "year": "Dartmouth '23",
+            "photo": "SW"
+        }, {
+            "name": "Sarah Jones",
+            "sport": "Skier",
+            "level": "Beginner",
+            "year": "Dartmouth '23",
+            "photo": "SJ"
+        }
+    ]
+}
